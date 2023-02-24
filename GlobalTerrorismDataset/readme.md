@@ -16,12 +16,18 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
 
 
 <h5>&nbsp;<h5>
+<h5>&nbsp;<h5>
+  
+  
 
 ![Country](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Countries.png)
 - **Iraq** & **Pakistan** are the top countries with high terrorism.
   
   
 <h5>&nbsp;<h5>
+<h5>&nbsp;<h5>
+  
+  
   
   
 ![City](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Cities.png)
@@ -29,12 +35,16 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
   
   
 <h5>&nbsp;<h5>
+<h5>&nbsp;<h5>
+  
+  
   
                      
 ![Year](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Year.png)
 - **The terrorist activities have increased in recent years** and were **highest in 2014.**
   
   
+<h5>&nbsp;<h5>
 <h5>&nbsp;<h5>
   
   
@@ -43,6 +53,9 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
 - Person with those professions should **avoid visiting places with high terrorist activities**.
   
 <h5>&nbsp;<h5>
+<h5>&nbsp;<h5>
+  
+  
   
   
 ![Map2](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Map2.png)
@@ -51,8 +64,9 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
     - Countries that should be avoided include **Iraq, Syria, Nigeria, Afghanistan, and Pakistan.**
 
 <h4></h4>
-<h5>&nbsp;<h5>
   
+  
+<h5>&nbsp;<h5>
 <h5>&nbsp;<h5>
   
 <h2>Insights and Takeaways:</h2>
