@@ -1,5 +1,5 @@
 
-<h3>overview of the project above</h3>
+<h3>Overview of the project [https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/Global_Terrorism.ipynb]</h3>
 
 
 This is an overview of our project which I've done as a part of TheSparksFoundation Internship Programme.                                                           
