@@ -1,5 +1,5 @@
 
-<h1> Exploratory data analysis on global terrorism dataset</h1>
+<h3>overview</h3>
 
 
 This is an overview of our project which I've done as a part of TheSparksFoundation Internship Programme.                                                           
