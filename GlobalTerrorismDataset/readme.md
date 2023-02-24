@@ -8,5 +8,10 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
 <hr> 
 
 
-![](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/8f193361b6e4ab41f7f55a9809b686208c3fcd9f/GlobalTerrorismDataset/_D__python_Jupyter_Projects_GlobalTerrorismDataset_Global_Terrorism.html.png)
-
+![Region](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Region.png)
+![Country](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Countries.png)
+![City](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Cities.png)
+![Year](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Year.png)
+![Victims](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Victims.png)
+![Map1](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Map1.png)
+![Map2](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Map2.png)
