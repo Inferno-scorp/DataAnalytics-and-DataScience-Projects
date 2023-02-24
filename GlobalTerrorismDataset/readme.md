@@ -4,7 +4,7 @@
 
 This is an overview of our project which I've done as a part of TheSparksFoundation Internship Programme.                                                           
 Here My task was to **perform the Exploratory Data Analysis (EDA) task on "The Global Terrorism Dataset".**
-- In which I've had to think myself of being a Security/Defence Analyst whos task is to get some key Issues and Insights through Analysis.
+- In which I've had to think myself of being a Security/Defence Analyst whose task is to get some key Issues and Insights through Analysis.
 (Which will be helpful for the person/people to get to know what are the Red-Zones and Safe-Zones of terrorism, with that gaining some key constraints and insights about their Safety.)
 
 Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
