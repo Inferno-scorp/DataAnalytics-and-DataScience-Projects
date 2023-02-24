@@ -1,4 +1,7 @@
 
+<h1> Exploratory data analysis on global terrorism dataset</h1>
+
+
 This is an overview of our project which I've done as a part of TheSparksFoundation Internship Programme.                                                           
 Here My task was to **perform the Exploratory Data Analysis (EDA) task on "The Global Terrorism Dataset".**
 - In which I've had to think myself of being a Security/Defence Analyst whos task is to get some key Issues and Insights through Analysis.
@@ -48,7 +51,9 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
     - Countries that should be avoided include **Iraq, Syria, Nigeria, Afghanistan, and Pakistan.**
 
 <h4></h4>
+<h5>&nbsp;<h5>
   
+<h5>&nbsp;<h5>
   
 <h2>Insights and Takeaways:</h2>
                                                                             
