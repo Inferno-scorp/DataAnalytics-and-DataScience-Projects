@@ -21,7 +21,7 @@ Source of the DataSet: https://www.kaggle.com/datasets/START-UMD/gtd
   
 
 ![Country](https://github.com/Inferno-scorp/DataAnalytics-and-DataScience-Projects/blob/main/GlobalTerrorismDataset/img/Countries.png)
-- **Iraq** & **Pakistan** are the top countries with high terrorism.
+- **Iraq** & **Pakistan** are the top countries with high terrorist activities.
   
   
 <h5>&nbsp;<h5>
